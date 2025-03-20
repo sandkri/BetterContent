@@ -1,0 +1,6 @@
+{
+  "parent": "bettercontent:block/ruby_ore",
+  "textures": {
+    "all": "bettercontent:block/ruby_ore"
+  }
+}
